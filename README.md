@@ -6,11 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Xpath CSS语法学习小游戏
 
-[Xpath和CSS学习小游戏](http://zmninfo.com/index.html)
+[Xpath和CSS学习小游戏](xpath_css)
 
 ### Selenium操作HTML元素的例子
 
-[Selenium]https://github.com/zmninfo/html_for_selenium/index.html
+[Selenium](html_for_selenium)
 
 ### Support or Contact
 
