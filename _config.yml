@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 
 title: 三只啄木鸟教学资源中心
 description: 欢迎你回来学习，“一分耕耘，一分收获”
+show_downloads: true
