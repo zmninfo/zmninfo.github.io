@@ -22,7 +22,7 @@
 
 ### App测试教学工具
 
-[啄木鸟app](/tools/zmninfo-debug.apk)
+[啄木鸟app](http://dl.zmninfo.com/app/releases/zmninfo-debug.apk)
 
 ### 支持与联系
 
