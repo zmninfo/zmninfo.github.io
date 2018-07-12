@@ -6,6 +6,20 @@
 
 [Selenium操作HTML元素的例子](html_for_selenium)
 
+#### Selenium浏览器各种Driver下载地址
+
+[ChromeDriver下载地址，需科学上网](http://chromedriver.storage.googleapis.com/index.html)  [淘宝镜像下载网站](https://npm.taobao.org/mirrors/chromedriver/)
+
+[Chrome与ChromeDriver版本映射官方说明](https://npm.taobao.org/mirrors/chromedriver/2.39/notes.txt)
+
+[Firefox的GeckoDriver官方发布地址](https://github.com/mozilla/geckodriver/releases)
+
+[Windows Edge Driver官方发布地址](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+
+[其他浏览器驱动下载地址汇总](https://docs.seleniumhq.org/download/)
+
+[Chrome、Firefox、IE各种driver打包下载]
+
 ### 接口测试教学工具
 
 #### 工具类
