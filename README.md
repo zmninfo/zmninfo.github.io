@@ -8,7 +8,7 @@
 
 #### Selenium浏览器各种Driver下载地址
 
-[ChromeDriver下载地址，需科学上网](http://chromedriver.storage.googleapis.com/index.html)          [淘宝镜像下载网站](https://npm.taobao.org/mirrors/chromedriver/)
+[ChromeDriver下载地址，需科学上网](http://chromedriver.storage.googleapis.com/index.html)  ——替代方法——>       [淘宝镜像下载网站](https://npm.taobao.org/mirrors/chromedriver/)
 
 [Chrome与ChromeDriver版本映射官方说明](https://npm.taobao.org/mirrors/chromedriver/2.39/notes.txt)
 
