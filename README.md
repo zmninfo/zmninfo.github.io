@@ -40,4 +40,4 @@
 
 ### 支持与联系
 
-使用问题请联系 [@任老师](mailto:samren@zmninfo) 邮箱：samren@zmninfo.com，QQ：1146009864
+使用问题请联系 [@任老师](mailto:viprs@qq.com) 邮箱：viprs@qq.com，QQ：1146009864
